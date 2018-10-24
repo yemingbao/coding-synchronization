@@ -1,0 +1,5 @@
+这是密钥的解决每一次输入的一个lower的方法
+
+eval `ssh-agent`
+
+ssh-add
